@@ -1,0 +1,29 @@
+{
+ "cfg_flight": {
+  "dims_mm": [
+   404.1,
+   404.8,
+   91.2
+  ],
+  "vol_L": 14.91,
+  "footprint_cm2": 1636.0
+ },
+ "cfg_ground": {
+  "dims_mm": [
+   475.6,
+   223.0,
+   159.6
+  ],
+  "vol_L": 16.92,
+  "footprint_cm2": 1060.0
+ },
+ "cfg_compact": {
+  "dims_mm": [
+   344.0,
+   439.5,
+   91.2
+  ],
+  "vol_L": 13.78,
+  "footprint_cm2": 1512.0
+ }
+}

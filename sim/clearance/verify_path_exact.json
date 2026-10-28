@@ -1,0 +1,137 @@
+[
+ {
+  "phi": 50,
+  "rho": 0,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 8
+ },
+ {
+  "phi": 40,
+  "rho": 0,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 8
+ },
+ {
+  "phi": 30,
+  "rho": 0,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 8
+ },
+ {
+  "phi": 30,
+  "rho": 10,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 10
+ },
+ {
+  "phi": 20,
+  "rho": 10,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 12
+ },
+ {
+  "phi": 20,
+  "rho": 20,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 12
+ },
+ {
+  "phi": 20,
+  "rho": 30,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 12
+ },
+ {
+  "phi": 10,
+  "rho": 30,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 14
+ },
+ {
+  "phi": 10,
+  "rho": 40,
+  "tightest": "ARM_FL|PLATE_FL",
+  "exact_mm": 3.8638987455853524,
+  "required_mm": 2.0,
+  "margin_mm": 1.8638987455853524,
+  "n_pairs": 14
+ },
+ {
+  "phi": 0,
+  "rho": 40,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 16
+ },
+ {
+  "phi": 0,
+  "rho": 50,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 16
+ },
+ {
+  "phi": 0,
+  "rho": 60,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 12
+ },
+ {
+  "phi": 0,
+  "rho": 70,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 12
+ },
+ {
+  "phi": 0,
+  "rho": 80,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 12
+ },
+ {
+  "phi": 0,
+  "rho": 90,
+  "tightest": "ARM_FR|PLATE_FR",
+  "exact_mm": 3.843279809828115,
+  "required_mm": 2.0,
+  "margin_mm": 1.8432798098281151,
+  "n_pairs": 12
+ }
+]

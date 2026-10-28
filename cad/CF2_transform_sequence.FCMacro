@@ -1,0 +1,15 @@
+# FreeCAD macro: steps the CF2 assembly through the planned flight->ground path (geometry only; see CF2_Report.md section 4).
+# Open CF2_Chameleon-Ring.FCStd, then run this macro. Re-run with REVERSE = True for ground->flight.
+import FreeCAD as App, time
+REVERSE = False
+PATH = [(50, 0), (40, 0), (30, 0), (30, 10), (20, 10), (20, 20), (20, 30), (10, 30), (10, 40), (0, 40), (0, 50), (0, 60), (0, 70), (0, 80), (0, 90)]
+doc = App.ActiveDocument; ss = doc.getObject('Params')
+def setv(alias, v): ss.set(ss.getCellFromAlias(alias), str(v))
+setv('cfg', 4)
+for ph, rh in (PATH[::-1] if REVERSE else PATH):
+    setv('seqPhiF', ph); setv('seqRho', rh); doc.recompute()
+    try:
+        import FreeCADGui as Gui; Gui.updateGui()
+    except Exception: pass
+    time.sleep(0.4)
+App.Console.PrintMessage('sequence done\n')

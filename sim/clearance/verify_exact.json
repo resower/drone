@@ -1,0 +1,188 @@
+{
+ "cfg_flight": {
+  "ARM_FL|PLATE_FL": {
+   "sample_mm": 3.868114479865045,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_FL|PLATE_FL": {
+   "sample_mm": 12.183110723853487,
+   "exact_mm": 11.888252348207482,
+   "required_mm": 4.0
+  },
+  "POD_FL|ARM_FL": {
+   "sample_mm": 11.30083143880323,
+   "exact_mm": 11.247548783981971,
+   "required_mm": 4.0
+  },
+  "ARM_FR|PLATE_FR": {
+   "sample_mm": 3.856985790281542,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_FR|PLATE_FR": {
+   "sample_mm": 12.200028186648666,
+   "exact_mm": 11.888252348207482,
+   "required_mm": 4.0
+  },
+  "POD_FR|ARM_FR": {
+   "sample_mm": 11.300831438803232,
+   "exact_mm": 11.247548783981971,
+   "required_mm": 4.0
+  },
+  "ARM_RL|PLATE_RL": {
+   "sample_mm": 3.8699540546575584,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_RL|PLATE_RL": {
+   "sample_mm": 12.200028186648666,
+   "exact_mm": 11.888252348207482,
+   "required_mm": 4.0
+  },
+  "POD_RL|ARM_RL": {
+   "sample_mm": 11.300831438803232,
+   "exact_mm": 11.247548783981971,
+   "required_mm": 4.0
+  },
+  "ARM_RR|PLATE_RR": {
+   "sample_mm": 3.8688919893996965,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_RR|PLATE_RR": {
+   "sample_mm": 12.183110723853487,
+   "exact_mm": 11.888252348207482,
+   "required_mm": 4.0
+  },
+  "POD_RR|ARM_RR": {
+   "sample_mm": 11.30083143880323,
+   "exact_mm": 11.247548783981971,
+   "required_mm": 4.0
+  }
+ },
+ "cfg_ground": {
+  "ARM_FL|FUS": {
+   "sample_mm": 8.252988258865066,
+   "exact_mm": 8.074936136817051,
+   "required_mm": 3.0
+  },
+  "ARM_FL|PLATE_FL": {
+   "sample_mm": 3.90703181379599,
+   "exact_mm": 3.8432798098326093,
+   "required_mm": 2.0
+  },
+  "POD_FL|ARM_FL": {
+   "sample_mm": 11.329342225084918,
+   "exact_mm": 11.24754878398195,
+   "required_mm": 4.0
+  },
+  "ARM_FR|FUS": {
+   "sample_mm": 8.279617600595616,
+   "exact_mm": 8.09403236754712,
+   "required_mm": 3.0
+  },
+  "ARM_FR|PLATE_FR": {
+   "sample_mm": 3.90997742997642,
+   "exact_mm": 3.843279809828115,
+   "required_mm": 2.0
+  },
+  "POD_FR|ARM_FR": {
+   "sample_mm": 11.294670212941398,
+   "exact_mm": 11.24754878398195,
+   "required_mm": 4.0
+  },
+  "ARM_RL|FUS": {
+   "sample_mm": 9.79099079917672,
+   "exact_mm": 8.989623544555608,
+   "required_mm": 3.0
+  },
+  "ARM_RL|PLATE_RL": {
+   "sample_mm": 3.882560430447583,
+   "exact_mm": 3.84327980982812,
+   "required_mm": 2.0
+  },
+  "POD_RL|ARM_RL": {
+   "sample_mm": 11.294670212941401,
+   "exact_mm": 11.247548783981955,
+   "required_mm": 4.0
+  },
+  "ARM_RR|FUS": {
+   "sample_mm": 9.253751665076123,
+   "exact_mm": 8.983498584250102,
+   "required_mm": 3.0
+  },
+  "ARM_RR|PLATE_RR": {
+   "sample_mm": 3.8892508969086386,
+   "exact_mm": 3.8432798098326058,
+   "required_mm": 2.0
+  },
+  "POD_RR|ARM_RR": {
+   "sample_mm": 11.329342225084924,
+   "exact_mm": 11.247548783981955,
+   "required_mm": 4.0
+  }
+ },
+ "cfg_compact": {
+  "ARM_FL|PLATE_FL": {
+   "sample_mm": 3.863095627110389,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_FL|PLATE_FL": {
+   "sample_mm": 12.198367531924328,
+   "exact_mm": 11.888252348207464,
+   "required_mm": 4.0
+  },
+  "POD_FL|ARM_FL": {
+   "sample_mm": 11.30083143880321,
+   "exact_mm": 11.247548783981943,
+   "required_mm": 4.0
+  },
+  "ARM_FR|PLATE_FR": {
+   "sample_mm": 3.881807537815513,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_FR|PLATE_FR": {
+   "sample_mm": 12.191040751193151,
+   "exact_mm": 11.888252348207464,
+   "required_mm": 4.0
+  },
+  "POD_FR|ARM_FR": {
+   "sample_mm": 11.30083143880321,
+   "exact_mm": 11.247548783981943,
+   "required_mm": 4.0
+  },
+  "ARM_RL|PLATE_RL": {
+   "sample_mm": 3.8818075378155115,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_RL|PLATE_RL": {
+   "sample_mm": 12.202119473628938,
+   "exact_mm": 11.88825234820748,
+   "required_mm": 4.0
+  },
+  "POD_RL|ARM_RL": {
+   "sample_mm": 11.30083143880322,
+   "exact_mm": 11.247548783981967,
+   "required_mm": 4.0
+  },
+  "ARM_RR|PLATE_RR": {
+   "sample_mm": 3.8789988513011795,
+   "exact_mm": 3.8638987455853524,
+   "required_mm": 2.0
+  },
+  "POD_RR|PLATE_RR": {
+   "sample_mm": 12.198367531924335,
+   "exact_mm": 11.888252348207477,
+   "required_mm": 4.0
+  },
+  "POD_RR|ARM_RR": {
+   "sample_mm": 11.30083143880322,
+   "exact_mm": 11.24754878398197,
+   "required_mm": 4.0
+  }
+ }
+}

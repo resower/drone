@@ -1,0 +1,190 @@
+{
+ "cfg_flight": {
+  "front_x": {
+   "total_cm2": 226.20239999999998,
+   "by_group_alone_cm2": {
+    "fuselage": 40.7088,
+    "rings": 121.8348,
+    "rotor_pod_internals": 69.2676,
+    "arm": 37.8756
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 35.9172,
+    "rings": 90.3528,
+    "rotor_pod_internals": 30.5748,
+    "arm": 25.8732
+   }
+  },
+  "side_y": {
+   "total_cm2": 267.948,
+   "by_group_alone_cm2": {
+    "fuselage": 140.31719999999999,
+    "rings": 121.9896,
+    "rotor_pod_internals": 68.1048,
+    "arm": 35.153999999999996
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 82.5912,
+    "rings": 88.74719999999999,
+    "rotor_pod_internals": 8.604,
+    "arm": 0.7128
+   }
+  },
+  "top_z": {
+   "total_cm2": 670.5756,
+   "by_group_alone_cm2": {
+    "fuselage": 217.1268,
+    "rings": 233.64,
+    "rotor_pod_internals": 190.6344,
+    "arm": 80.532
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 177.1524,
+    "rings": 222.2568,
+    "rotor_pod_internals": 187.7256,
+    "arm": 32.22
+   }
+  },
+  "front_pitch_10": {
+   "total_cm2": 418.86359999999996,
+   "by_group_alone_cm2": {
+    "fuselage": 77.526,
+    "rings": 309.978,
+    "rotor_pod_internals": 127.8252,
+    "arm": 75.1572
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 49.464,
+    "rings": 181.46519999999998,
+    "rotor_pod_internals": 14.7456,
+    "arm": 18.9684
+   }
+  },
+  "front_pitch_20": {
+   "total_cm2": 564.102,
+   "by_group_alone_cm2": {
+    "fuselage": 115.2864,
+    "rings": 431.3628,
+    "rotor_pod_internals": 160.37279999999998,
+    "arm": 85.12559999999999
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 76.572,
+    "rings": 257.5836,
+    "rotor_pod_internals": 24.642,
+    "arm": 6.2604
+   }
+  },
+  "front_pitch_30": {
+   "total_cm2": 640.764,
+   "by_group_alone_cm2": {
+    "fuselage": 154.8072,
+    "rings": 427.5288,
+    "rotor_pod_internals": 175.7376,
+    "arm": 88.5564
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 102.82679999999999,
+    "rings": 288.61199999999997,
+    "rotor_pod_internals": 61.524,
+    "arm": 13.5144
+   }
+  }
+ },
+ "cfg_ground": {
+  "front_x": {
+   "total_cm2": 185.4468,
+   "by_group_alone_cm2": {
+    "fuselage": 40.3884,
+    "rings": 121.7016,
+    "rotor_pod_internals": 60.7932,
+    "arm": 17.6292
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 34.5636,
+    "rings": 87.696,
+    "rotor_pod_internals": 10.62,
+    "arm": 1.026
+   }
+  },
+  "side_y": {
+   "total_cm2": 333.9576,
+   "by_group_alone_cm2": {
+    "fuselage": 140.2776,
+    "rings": 116.91,
+    "rotor_pod_internals": 99.80279999999999,
+    "arm": 40.464
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 83.83319999999999,
+    "rings": 101.7756,
+    "rotor_pod_internals": 88.9776,
+    "arm": 0.6264
+   }
+  },
+  "top_z": {
+   "total_cm2": 559.7568,
+   "by_group_alone_cm2": {
+    "fuselage": 216.9936,
+    "rings": 243.8928,
+    "rotor_pod_internals": 117.8172,
+    "arm": 81.7344
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 175.7844,
+    "rings": 184.42079999999999,
+    "rotor_pod_internals": 58.3452,
+    "arm": 40.5252
+   }
+  }
+ },
+ "cfg_compact": {
+  "front_x": {
+   "total_cm2": 231.0408,
+   "by_group_alone_cm2": {
+    "fuselage": 40.7268,
+    "rings": 121.878,
+    "rotor_pod_internals": 73.0548,
+    "arm": 40.9068
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 35.8956,
+    "rings": 84.5352,
+    "rotor_pod_internals": 32.3604,
+    "arm": 32.724
+   }
+  },
+  "side_y": {
+   "total_cm2": 262.2672,
+   "by_group_alone_cm2": {
+    "fuselage": 140.3676,
+    "rings": 121.9032,
+    "rotor_pod_internals": 70.35119999999999,
+    "arm": 27.035999999999998
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 91.2492,
+    "rings": 82.242,
+    "rotor_pod_internals": 4.6404,
+    "arm": 0.45
+   }
+  },
+  "top_z": {
+   "total_cm2": 671.0616,
+   "by_group_alone_cm2": {
+    "fuselage": 217.11599999999999,
+    "rings": 233.352,
+    "rotor_pod_internals": 190.7388,
+    "arm": 81.22319999999999
+   },
+   "by_group_exclusive_cm2": {
+    "fuselage": 177.0948,
+    "rings": 222.0048,
+    "rotor_pod_internals": 187.7472,
+    "arm": 32.9832
+   }
+  }
+ },
+ "ring_throat_area_cm2_each": 143.13881527918494,
+ "ring_outer_dia_mm": 157.0
+}

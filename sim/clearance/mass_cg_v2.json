@@ -1,0 +1,485 @@
+{
+ "parts": {
+  "rolling_rim": {
+   "vol_cm3": 97.38305542760943,
+   "mass_g": 58.91674853370372,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    7.938449796141978e-15,
+    1.9502209527177497e-14,
+    -9.722252185646724
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "rotor_wheel_pod/wheel",
+   "placeholder": false
+  },
+  "tyre": {
+   "vol_cm3": 47.7396568232425,
+   "mass_g": 51.5588293691019,
+   "basis": "CAD volume x density 1.20 x fill 0.90 (assumed)",
+   "com_local": [
+    -1.1240170327005325e-14,
+    7.946705165512029e-15,
+    -10.000000000000016
+   ],
+   "material": "TPU 95A",
+   "group": "rotor_wheel_pod/wheel",
+   "placeholder": false
+  },
+  "stator_hub_spokes": {
+   "vol_cm3": 10.172648952248963,
+   "mass_g": 6.154452616110624,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -8.033118938625264e-14,
+    2.58830042596774e-13,
+    -32.91145300994211
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": false
+  },
+  "support_roller_1": {
+   "vol_cm3": 0.4611229696939098,
+   "mass_g": 0.6501833872684128,
+   "basis": "CAD volume x density 1.41 x fill 1.00 (assumed)",
+   "com_local": [
+    -44.19417382415922,
+    44.194173824159236,
+    -18.839487668619707
+   ],
+   "material": "Acetal (POM)",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": false
+  },
+  "support_roller_2": {
+   "vol_cm3": 0.4611229696939098,
+   "mass_g": 0.6501833872684128,
+   "basis": "CAD volume x density 1.41 x fill 1.00 (assumed)",
+   "com_local": [
+    -44.19417382415924,
+    -44.19417382415922,
+    -18.839487668619707
+   ],
+   "material": "Acetal (POM)",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": false
+  },
+  "support_roller_3": {
+   "vol_cm3": 0.4611229696939098,
+   "mass_g": 0.6501833872684128,
+   "basis": "CAD volume x density 1.41 x fill 1.00 (assumed)",
+   "com_local": [
+    44.19417382415921,
+    -44.194173824159236,
+    -18.839487668619707
+   ],
+   "material": "Acetal (POM)",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": false
+  },
+  "drive_pinion": {
+   "vol_cm3": 1.3141335506702239,
+   "mass_g": 2.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    42.42640687119285,
+    42.426406871192825,
+    -25.391195935533318
+   ],
+   "material": "Steel",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": true
+  },
+  "wheel_gearmotor_placeholder": {
+   "vol_cm3": 2.714336052701581,
+   "mass_g": 10.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    42.42640687119285,
+    42.42640687119285,
+    -46.99999999999999
+   ],
+   "material": "Electronics",
+   "group": "rotor_wheel_pod/stator",
+   "placeholder": true
+  },
+  "rotor_motor_placeholder": {
+   "vol_cm3": 13.257689534199601,
+   "mass_g": 33.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    1.9508493930974457e-16,
+    -2.5240327072161236e-16,
+    -19.778514304125398
+   ],
+   "material": "Electronics",
+   "group": "rotor_wheel_pod/rotor",
+   "placeholder": true
+  },
+  "rotor_prop_placeholder": {
+   "vol_cm3": 5.362851654700631,
+   "mass_g": 5.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    -2.42598057034993e-11,
+    6.571542158819495e-10,
+    -0.7204633079849094
+   ],
+   "material": "Placeholder block",
+   "group": "rotor_wheel_pod/rotor",
+   "placeholder": true
+  },
+  "pylon_wrist_bridge": {
+   "vol_cm3": 20.955245133197064,
+   "mass_g": 12.677923305584226,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -7.35231586803911,
+    -1.7675504248464416e-14,
+    -53.68303605506646
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "rotor_wheel_pod/joint_J2",
+   "placeholder": false
+  },
+  "arm_fairing": {
+   "vol_cm3": 38.603571396244085,
+   "mass_g": 23.355160694727676,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    22.217175253897704,
+    -1.359774158290521e-07,
+    -2.107741893201563e-07
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "arm",
+   "placeholder": false
+  },
+  "cfrp_arm_tube": {
+   "vol_cm3": 1.1592476891746344,
+   "mass_g": 1.7968339182206834,
+   "basis": "CAD volume x density 1.55 x fill 1.00 (assumed)",
+   "com_local": [
+    35.499999999999986,
+    5.542727650913035e-16,
+    3.3343628964117355e-15
+   ],
+   "material": "CFRP tube",
+   "group": "arm",
+   "placeholder": false
+  },
+  "j1_servo_placeholder": {
+   "vol_cm3": 6.072,
+   "mass_g": 12.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    -7.99024146510529e-18,
+    -1.4042346556523718e-17,
+    0.0
+   ],
+   "material": "Electronics",
+   "group": "arm",
+   "placeholder": true
+  },
+  "j2_servo_placeholder": {
+   "vol_cm3": 4.4,
+   "mass_g": 12.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    58.0,
+    0.0,
+    0.0
+   ],
+   "material": "Electronics",
+   "group": "arm",
+   "placeholder": true
+  },
+  "j1_stop_lug": {
+   "vol_cm3": 0.072,
+   "mass_g": 0.04356000000000001,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    20.0,
+    1.2335811384723961e-17,
+    -13.5
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "arm",
+   "placeholder": false
+  },
+  "fuselage_main_shell": {
+   "vol_cm3": 54.0887409077831,
+   "mass_g": 32.72368824920878,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -1.1270602300831944,
+    0.011503155094149658,
+    0.862500965619928
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_nose_cone": {
+   "vol_cm3": 7.944129837356588,
+   "mass_g": 4.806198551600737,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    126.73079576174548,
+    0.0014905080718088611,
+    -3.5098496238317347
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_dorsal_hatch": {
+   "vol_cm3": 11.112061754266712,
+   "mass_g": 6.722797361331361,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    3.9691621786827294,
+    0.0009651450358373869,
+    26.359238884338254
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_belly_hatch": {
+   "vol_cm3": 8.419374649906867,
+   "mass_g": 5.093721663193656,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    7.9498210683608015,
+    9.316127526046485e-05,
+    -23.001773966636264
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_service_left": {
+   "vol_cm3": 4.194498505729931,
+   "mass_g": 2.537671595966609,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -50.726353347570104,
+    28.64607764312779,
+    -1.2835829805188468
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_service_right": {
+   "vol_cm3": 4.194641398300361,
+   "mass_g": 2.5377580459717195,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -50.73268409559739,
+    -28.642384356561898,
+    -1.2892582671123132
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "panel_tail_cap": {
+   "vol_cm3": 3.7990923451418803,
+   "mass_g": 2.298450868810838,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -138.15462646231992,
+    0.0008007602359713726,
+    3.5129498054340154
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "antenna_fin": {
+   "vol_cm3": 0.9264311159420076,
+   "mass_g": 0.5604908251449147,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    -106.21172815157206,
+    3.070866739735079e-18,
+    28.474950976265745
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage",
+   "placeholder": false
+  },
+  "nose_sensor_dome_placeholder": {
+   "vol_cm3": 3.921537019039231,
+   "mass_g": 4.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    136.66258741077243,
+    1.0146632049979776e-15,
+    -4.0
+   ],
+   "material": "Placeholder block",
+   "group": "fuselage",
+   "placeholder": true
+  },
+  "fasteners_M2": {
+   "vol_cm3": 0.38333085240571985,
+   "mass_g": 6.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    -11.846153846153838,
+    -2.3726102296882517e-15,
+    4.873238778520077
+   ],
+   "material": "Steel",
+   "group": "fuselage",
+   "placeholder": true
+  },
+  "battery_placeholder": {
+   "vol_cm3": 118.56,
+   "mass_g": 190.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    6.0,
+    -5.46571335200077e-17,
+    -2.5
+   ],
+   "material": "Electronics",
+   "group": "fuselage/internals",
+   "placeholder": true
+  },
+  "fc_stack_placeholder": {
+   "vol_cm3": 29.376,
+   "mass_g": 14.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    -70.0,
+    8.22387425648264e-17,
+    -1.9999999999999998
+   ],
+   "material": "Electronics",
+   "group": "fuselage/internals",
+   "placeholder": true
+  },
+  "companion_computer_placeholder": {
+   "vol_cm3": 21.760000000000005,
+   "mass_g": 45.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    83.99999999999999,
+    4.675998150774187e-16,
+    -4.0
+   ],
+   "material": "Electronics",
+   "group": "fuselage/internals",
+   "placeholder": true
+  },
+  "camera_module_placeholder": {
+   "vol_cm3": 6.48,
+   "mass_g": 22.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    120.0,
+    -2.807082412879408e-16,
+    -5.0
+   ],
+   "material": "Electronics",
+   "group": "fuselage/internals",
+   "placeholder": true
+  },
+  "gps_puck_placeholder": {
+   "vol_cm3": 4.310265120725196,
+   "mass_g": 15.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    -30.000000000000004,
+    -1.4080087921630993e-16,
+    29.499999999999996
+   ],
+   "material": "Electronics",
+   "group": "fuselage/internals",
+   "placeholder": true
+  },
+  "shoulder_plate_upper": {
+   "vol_cm3": 9.259941401077091,
+   "mass_g": 5.602264547651641,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    57.999999999999915,
+    36.78408760851514,
+    14.500000000000007
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage/shoulder",
+   "placeholder": false
+  },
+  "shoulder_plate_lower": {
+   "vol_cm3": 9.259941401077091,
+   "mass_g": 5.602264547651641,
+   "basis": "CAD volume x density 1.10 x fill 0.55 (assumed)",
+   "com_local": [
+    57.9999999999999,
+    36.78408760851514,
+    -14.499999999999988
+   ],
+   "material": "PA12-CF (SLS/FDM)",
+   "group": "fuselage/shoulder",
+   "placeholder": false
+  },
+  "j1_hinge_pin": {
+   "vol_cm3": 0.4146902302738527,
+   "mass_g": 3.0,
+   "basis": "placeholder (catalogue-class assumption)",
+   "com_local": [
+    58.00000000000001,
+    46.0,
+    2.7414882102850516e-16
+   ],
+   "material": "Steel",
+   "group": "fuselage/shoulder",
+   "placeholder": true
+  }
+ },
+ "cfg_flight": {
+  "mass_g": 1331.9151279394582,
+  "cg": [
+   4.9630916508516885,
+   0.00029978567314942645,
+   20.457199659086612
+  ],
+  "by_group": {
+   "fuselage": 410.0988935424419,
+   "pod": 725.0340159452226,
+   "arm": 196.78221845179345
+  }
+ },
+ "cfg_ground": {
+  "mass_g": 1331.9151279394582,
+  "cg": [
+   4.963091650851688,
+   0.0002997856731541584,
+   -0.18823219457684598
+  ],
+  "by_group": {
+   "fuselage": 410.0988935424419,
+   "pod": 725.0340159452226,
+   "arm": 196.78221845179345
+  }
+ },
+ "cfg_compact": {
+  "mass_g": 1331.9151279394582,
+  "cg": [
+   4.963091650851669,
+   0.0002997856731562966,
+   20.457199659086612
+  ],
+  "by_group": {
+   "fuselage": 410.0988935424419,
+   "pod": 725.0340159452226,
+   "arm": 196.78221845179345
+  }
+ }
+}

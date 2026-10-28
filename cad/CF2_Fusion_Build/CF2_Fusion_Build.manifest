@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "id": "5d1c2f0e-7c1a-4b6e-9a53-cf2c0ffee001",
+  "author": "CF-2 concept team",
+  "description": {"": "CF-2 Chameleon-Ring concept: builds and poses the assembly (flight / ground / compact / custom). Untested in Fusion."},
+  "version": "0.1",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

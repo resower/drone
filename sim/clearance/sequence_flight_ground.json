@@ -1,0 +1,216 @@
+{
+ "flight_to_ground": {
+  "path": [
+   [
+    50,
+    0
+   ],
+   [
+    40,
+    0
+   ],
+   [
+    30,
+    0
+   ],
+   [
+    30,
+    10
+   ],
+   [
+    20,
+    10
+   ],
+   [
+    20,
+    20
+   ],
+   [
+    20,
+    30
+   ],
+   [
+    10,
+    30
+   ],
+   [
+    10,
+    40
+   ],
+   [
+    0,
+    40
+   ],
+   [
+    0,
+    50
+   ],
+   [
+    0,
+    60
+   ],
+   [
+    0,
+    70
+   ],
+   [
+    0,
+    80
+   ],
+   [
+    0,
+    90
+   ]
+  ],
+  "moves": [
+   [
+    "yaw",
+    50,
+    30
+   ],
+   [
+    "roll",
+    0,
+    10
+   ],
+   [
+    "yaw",
+    30,
+    20
+   ],
+   [
+    "roll",
+    10,
+    30
+   ],
+   [
+    "yaw",
+    20,
+    10
+   ],
+   [
+    "roll",
+    30,
+    40
+   ],
+   [
+    "yaw",
+    10,
+    0
+   ],
+   [
+    "roll",
+    40,
+    90
+   ]
+  ],
+  "trace": [
+   {
+    "phi": 50,
+    "rho": 0,
+    "worst_pair": "ARM_FL|PLATE_FL",
+    "worst_dist": 2.6868121496593402,
+    "margin": 0.6868121496593402
+   },
+   {
+    "phi": 40,
+    "rho": 0,
+    "worst_pair": "ARM_FL|PLATE_FL",
+    "worst_dist": 2.68441493943122,
+    "margin": 0.6844149394312198
+   },
+   {
+    "phi": 30,
+    "rho": 0,
+    "worst_pair": "ARM_FL|PLATE_FL",
+    "worst_dist": 2.7076006110024275,
+    "margin": 0.7076006110024275
+   },
+   {
+    "phi": 30,
+    "rho": 10,
+    "worst_pair": "ARM_FL|PLATE_FL",
+    "worst_dist": 2.7076006110024275,
+    "margin": 0.7076006110024275
+   },
+   {
+    "phi": 20,
+    "rho": 10,
+    "worst_pair": "ARM_RR|PLATE_RR",
+    "worst_dist": 2.682549511647529,
+    "margin": 0.6825495116475291
+   },
+   {
+    "phi": 20,
+    "rho": 20,
+    "worst_pair": "ARM_RR|PLATE_RR",
+    "worst_dist": 2.682549511647529,
+    "margin": 0.6825495116475291
+   },
+   {
+    "phi": 20,
+    "rho": 30,
+    "worst_pair": "ARM_RR|PLATE_RR",
+    "worst_dist": 2.682549511647529,
+    "margin": 0.6825495116475291
+   },
+   {
+    "phi": 10,
+    "rho": 30,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.7164107679884864,
+    "margin": 0.7164107679884864
+   },
+   {
+    "phi": 10,
+    "rho": 40,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.7164107679884864,
+    "margin": 0.7164107679884864
+   },
+   {
+    "phi": 0,
+    "rho": 40,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   },
+   {
+    "phi": 0,
+    "rho": 50,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   },
+   {
+    "phi": 0,
+    "rho": 60,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   },
+   {
+    "phi": 0,
+    "rho": 70,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   },
+   {
+    "phi": 0,
+    "rho": 80,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   },
+   {
+    "phi": 0,
+    "rho": 90,
+    "worst_pair": "ARM_RL|PLATE_RL",
+    "worst_dist": 2.664323136727565,
+    "margin": 0.6643231367275648
+   }
+  ],
+  "min_margin": 0.6643231367275648
+ }
+}
